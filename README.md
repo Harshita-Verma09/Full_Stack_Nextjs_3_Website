@@ -10,6 +10,7 @@ The application demonstrates modern frontend development practices using **Next.
 
 ## 🛠 Tech Stack
 
+
 * **Next.js** (App Router)
 * **React.js**
 * **TypeScript**
