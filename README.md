@@ -13,6 +13,7 @@ The application demonstrates modern frontend development practices using **Next.
 
 
 
+
 * **Next.js** (App Router)
 * **React.js**
 * **TypeScript**
