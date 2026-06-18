@@ -8,6 +8,7 @@ The application demonstrates modern frontend development practices using **Next.
 
 ---
 
+
 ## 🛠 Tech Stack
 
 
